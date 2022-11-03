@@ -6,7 +6,7 @@ Results:
 Elbow curve:
 From the Elbow curve, the best k value is 4. Hence, concluded an output of 4 clusters to categorize the cryptocurrencies.
 
-Visualizing the Cryptocurrencies:
+
 ![Elbow curve](https://user-images.githubusercontent.com/107904664/199650189-586bb40f-7fc0-4516-9b80-3943a773682b.png)
 
 
